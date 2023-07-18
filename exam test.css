@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+
+
+.img {
+    background-image: url(https://images.pexels.com/photos/3243090/pexels-photo-3243090.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1s);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+}
+.content h1{
+    text-align: right;
+    margin-right: 100px;
+    margin-top: 100px;
+    color: white;
+}
+.nav-item a{
+    color: rgb(255, 255, 255);
+}
+
+
+.nav-link a{
+    color: aliceblue;
+}
+
+.button{
+    width:150px;
+    height: 30px;
+    border-radius: 10px;
+    background-color: rgb(2, 79, 13);
+    color: white;
+    text-align: center;
+    margin-left: 45%;
+    margin-top: 100px;
+ 
+}
+
+.content1{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 50px;
+}
+
+.morepackages{
+    width: 150px;
+    height: 30px;
+    border-radius: 15px;
+    background-color: blue;
+    color: white;
+}
+
+.morepackages:hover{
+    background-color: brown;
+}
+
+.morepackages-button{
+    justify-content: center;
+    text-align: center;
+    margin-top: 60px;
+}
+
+.carousel-inner{
+    height: 400px;
+    width: 100%;
+    margin-top: 50px;
+}
+
+.carousel-inner img{
+    height: 400px;
+    width: 100%;
+}
+
+.content-video{
+    margin: 70px;
+    display: flex;
+}
+
+.content-video img{
+    margin-left: 40px;
+}
+
+.footer{
+    background-color: darkblue;
+    height: 300px;
+}
+
+.exploreworld img{
+    width: 200px;
+}
